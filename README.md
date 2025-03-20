@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Vatsal
 
-## About Me
+## 👤 About Me
 
 - 💻 Software Engineer with 4+ years of experience delivering high-impact solutions
 - 🛠️ Experience building scalable, thread-safe, and efficient microservices, optimizing database performance, and developing event streaming and distributed systems
